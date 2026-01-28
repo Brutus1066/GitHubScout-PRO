@@ -1,10 +1,13 @@
 # Kindware GitHubScout - Git Ignore
 # ============================================================================
 
-# Build outputs
+# Build outputs (but keep releases folder)
 build/
 release/
-*.exe
+
+# Keep the installer exe in releases folder
+!releases/
+!releases/*.exe
 
 # User data (don't commit personal tracked repos)
 tracked.json

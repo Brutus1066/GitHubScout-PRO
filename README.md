@@ -75,21 +75,35 @@
 
 ## 📦 Installation
 
-### Option 1: Pre-built Installer (Easiest)
+### Option 1: One-Click Installer (Recommended)
 
-> No setup required! Download, run, done.
+> **Easiest way to install!** The .exe installer handles everything automatically.
+
+1. Download [`GitHubScout-Setup.exe`](releases/GitHubScout-Setup.exe) from this repo
+2. Double-click to run
+3. **If PowerShell 7 is not installed**, the installer will offer to install it via winget
+4. Choose your install location (or press Enter for default)
+5. Done! Desktop and Start Menu shortcuts are created automatically
+
+**What the installer does:**
+- ✅ Checks for PowerShell 7 (installs if missing)
+- ✅ Copies all files to your chosen location
+- ✅ Creates Desktop shortcut with custom icon
+- ✅ Creates Start Menu shortcut under "Kindware"
+- ✅ Icon persists after reboot!
+
+### Option 2: Download from Releases
 
 1. Go to [Releases](https://github.com/Brutus1066/GitHubScout-PRO/releases)
 2. Download `GitHubScout-v2.1.0-Setup.zip`
 3. Extract and run `GitHubScout-Setup.exe`
-4. Follow the installer prompts
 
 | File | Size | Description |
 |------|------|-------------|
-| `GitHubScout-Setup.exe` | ~1 MB | Installer with auto PS7 setup |
+| `GitHubScout-Setup.exe` | ~273 KB | Installer with auto PS7 setup |
 | `GitHubScout-v2.1.0-portable.zip` | ~50 KB | Portable - just extract and run |
 
-### Option 2: Clone & Run
+### Option 3: Clone & Run
 
 ```powershell
 git clone https://github.com/Brutus1066/GitHubScout-PRO.git
