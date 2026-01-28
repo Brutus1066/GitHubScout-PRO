@@ -67,9 +67,9 @@
 |---------------|---------------|
 | ![Tracked](screenshots/TrackedReposScreenshot.png) | ![README](screenshots/ReadmeBrutusScreenshot.png) |
 
-| Help Menu | Desktop Shortcut |
-|-----------|------------------|
-| ![Help](screenshots/HelpMenuScreenshot.png) | ![Desktop](screenshots/DesktopScreenshot.png) |
+| Help Menu | Open in Browser |
+|-----------|-----------------|
+| ![Help](screenshots/HelpMenuScreenshot.png) | ![Open](screenshots/RepoOpenScreenshot.png) |
 
 ---
 
