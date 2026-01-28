@@ -2,8 +2,8 @@
   <img src="https://img.shields.io/badge/PowerShell-7.0%2B-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell 7+">
   <img src="https://img.shields.io/badge/CLI-Terminal-4EAA25?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="CLI">
   <img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
-  <img src="https://img.shields.io/github/license/LazyFrog-kz/GitHubScout-PRO?style=flat-square" alt="License">
-  <img src="https://img.shields.io/github/stars/LazyFrog-kz/GitHubScout-PRO?style=flat-square" alt="Stars">
+  <img src="https://img.shields.io/github/license/Brutus1066/GitHubScout-PRO?style=flat-square" alt="License">
+  <img src="https://img.shields.io/github/stars/Brutus1066/GitHubScout-PRO?style=flat-square" alt="Stars">
 </p>
 
 <h1 align="center">⚡ GitHubScout</h1>
@@ -79,7 +79,7 @@
 
 > No setup required! Download, run, done.
 
-1. Go to [Releases](https://github.com/LazyFrog-kz/GitHubScout-PRO/releases)
+1. Go to [Releases](https://github.com/Brutus1066/GitHubScout-PRO/releases)
 2. Download `GitHubScout-v2.1.0-Setup.zip`
 3. Extract and run `GitHubScout-Setup.exe`
 4. Follow the installer prompts
@@ -92,7 +92,7 @@
 ### Option 2: Clone & Run
 
 ```powershell
-git clone https://github.com/LazyFrog-kz/GitHubScout-PRO.git
+git clone https://github.com/Brutus1066/GitHubScout-PRO.git
 cd GitHubScout-PRO
 .\LazyFrog-GitHubScout.bat
 ```
@@ -250,9 +250,9 @@ MIT License - see [LICENSE](LICENSE) for details.
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/LazyFrog-kz">LazyFrog-kz</a> at <a href="https://kindware.dev">LAZYFROG-kindware.dev</a>
+  Made with ❤️ by <a href="https://github.com/Brutus1066">Brutus1066</a> at <a href="https://kindware.dev">LAZYFROG-kindware.dev</a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/LazyFrog-kz/GitHubScout-PRO/stargazers">⭐ Star this repo</a> if you find it useful!
+  <a href="https://github.com/Brutus1066/GitHubScout-PRO/stargazers">⭐ Star this repo</a> if you find it useful!
 </p>
