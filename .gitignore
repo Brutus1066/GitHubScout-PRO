@@ -1,0 +1,40 @@
+# Kindware GitHubScout - Git Ignore
+# ============================================================================
+
+# Build outputs
+build/
+release/
+*.exe
+
+# User data (don't commit personal tracked repos)
+tracked.json
+
+# Backup folder (local only)
+backup/
+
+# Old screenshots folder (use screenshots/ instead)
+ScreensGitHub/
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# PowerShell
+*.log
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Development folders (keep templates but not src)
+# src/
+
+# Temporary
+temp/
+tmp/
